@@ -62,7 +62,7 @@ patient-risk-prediction/
 
 1️⃣ Clone this repository  
 ```bash
-git clone https://github.com/Cemrekucukg/patient-risk-prediction.git
+git clone https://github.com/sainikhiljuluri/patient-risk-prediction.git
 cd patient-risk-prediction
 ```
 
@@ -108,17 +108,6 @@ The project uses **SHAP (SHapley Additive exPlanations)** to interpret the model
 ## 📜 License
 
 This project is licensed under the **MIT License** — free for educational and professional use.
-
----
-
-## 👩‍💻 Author
-
-**Cemre Küçükgöde**  
-🎓 *MSc in Computer Engineering, Ege University*  
-
-🌐 [Portfolio](https://cemrekucukgode.com)  
-💼 [LinkedIn](https://linkedin.com/in/cemre-kucukgode/)  
-💻 [GitHub](https://github.com/Cemrekucukg)
 
 ---
 
